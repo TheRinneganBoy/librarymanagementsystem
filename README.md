@@ -40,7 +40,7 @@ How to Use:
 3. Follow the on-screen instructions to interact with the Library Management System.
 
 Contact:
-For any questions or inquiries, feel free to contact [Your Email Address] or [Your Contact Number].
+For any questions or inquiries, feel free to contact.
 
 Happy Library Management!
 

@@ -1,6 +1,6 @@
 # Library Management System
 Description:
-The Library Management System is a console-based application designed to efficiently manage a library's book inventory and lending operations. This Java project provides librarians and administrators with a user-friendly interface to add, search, update, and remove books from the library. It also allows users to borrow and return books, check book availability, and view library statistics.
+The Library Management System is a console-based application designed to efficiently manage a library's book inventory and lending operations. This Java project provides librarians and administrators with a user-friendly interface to add, search, update, and remove books from the library. It also allows users to borrow and return books, check book availability, and view library statistics. This was a project I submitted for my 2nd semester Java OOPs Project Presentation
 
 Features:
 - Add new books to the library with title and author details.
